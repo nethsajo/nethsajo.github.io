@@ -2252,7 +2252,12 @@ nav .social--icons i:hover {
         height: 170px;
         margin-bottom: 30px;
     }
-
+    
+     /* More About */
+    .wrapper-skills .content-skills {
+        padding: 50px 10px;
+    }
+	
     /* Contact */
     .wrapper-contact .content-contact {
         padding: 10px;
