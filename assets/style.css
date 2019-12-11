@@ -2267,7 +2267,12 @@ nav .social--icons i:hover {
     .wrapper-contact .content-contact .ipt-container--message{
         width: 100%;
         margin: 0;
-    } 
+    }
+	
+    .wrapper-contact .content-contact .ipt--container label,
+    .wrapper-contact .content-contact .ipt-container--message label  {
+        margin-left: 8px;
+    }   
 
     .wrapper-contact .content-contact .ipt--container input {
         width: 90%;
