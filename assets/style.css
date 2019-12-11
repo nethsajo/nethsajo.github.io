@@ -2137,7 +2137,7 @@ nav .social--icons i:hover {
 @media only screen and (max-width: 767px) {
     html,
     body {
-		max-width: 100%;
+	max-width: 100%;
         overflow-x: hidden;
     }
 	
@@ -2148,7 +2148,7 @@ nav .social--icons i:hover {
     }
     
     .header-primary--maintext {
-        font-size: 55px;
+        font-size: 45px;
         margin-bottom: 1rem;
         font-weight: 700;
     }
@@ -2165,7 +2165,7 @@ nav .social--icons i:hover {
     }
 
     .footer .content-footer {
-		padding: 10px 40px;
+	padding: 10px 40px;
         width: 100%;
     }
 
